@@ -5,6 +5,8 @@ I made it using [Java17](https://openjdk.java.net/) and [`Maven`](https://maven.
 
 <br>
 Its pretty simple... to use and understand how it works
+<br>
+Oh yea... it uses fancy Annotations (@...) to work....
 
 <br><br>
 [Examples](src/main/java/xyz/terrific/examples/Example.java)
